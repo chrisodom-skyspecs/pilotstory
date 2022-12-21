@@ -9,11 +9,11 @@ var config = {
     footer: '',
     chapters: [
         {
-            id: 'phl',
+            id: 'skyspecs',
             alignment: 'right',
-            title: 'Philadelphia Bicycle Infrastructure',
+            title: 'About SkySpecs',
             image: '',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheap. As a typical East Coast large city, the urban core is dense, so there is a lot within reach of a 15 minute ride... even mountain bike trails. Paired with the public transit infrastructure, cycling can be more efficient and much less expensive than driving (and parking) a car.',
+            description: 'Skyspecs provides inspection and maintenance services for wind turbines using autonomous drones to inspect wind turbines and gather data about their condition. This information is then used to identify potential problems and schedule maintenance in a timely manner, helping to improve the overall efficiency and reliability of wind turbines. Skyspecs has developed proprietary technology to enable its drones to navigate and inspect wind turbines safely and efficiently. SkySpecs works with wind farm operators and other clients around the world to provide its services.',
             location: {
                 center: [-75.13080, 39.97790],
                 zoom: 9.83,
