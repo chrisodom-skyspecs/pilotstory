@@ -15,8 +15,8 @@ var config = {
             image: '',
             description: 'Skyspecs provides inspection and maintenance services for wind turbines using an autonomous drone system to inspect wind turbines and gather data about their condition. This information is then used to identify potential problems and schedule maintenance in a timely manner, helping to improve the overall efficiency and reliability of wind turbines. Skyspecs has developed proprietary technology to enable its drones to navigate and inspect wind turbines safely and efficiently. SkySpecs works with wind farm operators and other clients around the world to provide its services.',
             location: {
-                center: [-75.13080, 39.97790],
-                zoom: 9.83,
+                center: [[-101.96289, 38.73146]],
+                zoom: 3.99,
                 pitch: 0.00,
                 bearing: 0.00
             },
